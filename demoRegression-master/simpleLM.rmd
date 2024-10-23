@@ -1,6 +1,6 @@
 ---
 title: "simpleRegress"
-author: "Mikaela Elias"
+author: "Mikaela Michelle Elias"
 date: "Fall 2024"
 output: html_document
 ---
@@ -90,7 +90,7 @@ The adjusted rsquared for LENGTH~WEIGHT is 0.7423
 
 
          
-The models ranked from worst to best are the following...          
+The models ranked from worst to best are the following....          
 LENGTH~AGE with the rsquared value of 0.5073, followed by          
 model LEGNTH~HEADWTH with the rsquared value of 0.5321, followed by the          
 model LENGTH~WEIGHT with the rsquaredvalue of 0.7423, followed by the          
